@@ -2,11 +2,11 @@
   "subGroup1": {
     "CacheCohort": true,
     "CohortTimeout": 11,
-    "SCMSource": "input-20221706.42.42.416-36",
+    "SCMSource": "input-20221706.11.40.846-86",
     "UseLegacyHeuristic": true
   },
   "subGroup2": {
     "binderyRiskModel": "sometext"
   },
-  "value": "success"
+  "value": "failed"
 }
