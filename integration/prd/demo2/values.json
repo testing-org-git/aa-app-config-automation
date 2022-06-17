@@ -6,7 +6,7 @@
     "UseLegacyHeuristic": true
   },
   "subGroup2": {
-    "binderyRiskModel": "123"
+    "binderyRiskModel": "sometext"
   },
   "value": "success"
 }
