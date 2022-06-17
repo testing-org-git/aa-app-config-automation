@@ -32,4 +32,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.event.repository.full_name }}
           pull-request-number: ${{ github.event.workflow_run.pull_requests[0].number }}
-          comment: Automatically closing the pull sinse validation build has failed
+          comment: Automatically closing the pull since validation build has failed
